@@ -18,7 +18,7 @@ By building this project i learned some new skills which contains:
 
 ## Installation
 
-
+https://parth0415.github.io/Secure-Password-Generator/
 
 ## Usage
 
@@ -36,7 +36,7 @@ Please refer to the LICENSE in the repository.
 
 
 
-Sec
+
 
 
 
